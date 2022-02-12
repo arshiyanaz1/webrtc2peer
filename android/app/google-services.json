@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "382911755343",
+    "project_id": "webrtcp2p-eed4b",
+    "storage_bucket": "webrtcp2p-eed4b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:382911755343:android:05890758e0d6825844e63a",
+        "android_client_info": {
+          "package_name": "com.webrtc2peer"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "382911755343-lgjpo9eulu9hu086j3774euojfan8ga4.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyADskrz1TBden8X9j3mm6lEVrdtp679dsY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "382911755343-lgjpo9eulu9hu086j3774euojfan8ga4.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
